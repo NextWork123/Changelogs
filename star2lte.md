@@ -1,0 +1,11 @@
+## 1.2 Star2lte
+
+-  ArrowOS 12 Kernel.
+-  Fixed GMaps bug.
+-  Enabled all AOSP Audio features.
+-  Disabled compressed APEX for better performance.
+-  Cleaned-up trees.
+-  Enable HDR and Wide Color Display.
+-  Built-in GCAM GO.
+-  Pixel-ify the Bixby button.
+-  Netflix auto L3 by default.
