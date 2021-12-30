@@ -1,3 +1,20 @@
+##1.2 Miatoll
+
+-December security patch
+-Enforcing Build
+-CTS passes by default
+-Bankings apps are working fine
+-Pure Perf kernel by default
+-Disable VSync for CPU rendered apps
+-Disable slow blur effect to avoid laggish blur
+-Enable config avoidGfxAccel 
+-Better ram management
+-Some other minor changes
+
+Note:
+Flash Latest firmware
+Clean flash recommended
+
 ## 1.1 Miatoll
 
 - November security patch
