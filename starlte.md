@@ -1,4 +1,4 @@
-## 1.3 star2lte
+## 1.3 starlte
 
 + Prebuilt GrapheneOS Camera.
 + Bring AOSP Night Light back (Not LiveDisplay).
