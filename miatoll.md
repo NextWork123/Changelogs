@@ -1,3 +1,17 @@
+## 1.3 Miatoll
+
+- January security patch
+- Enforcing build
+- Safetynet passes by default
+- Bankings apps are working fine
+- Switched default kernel to Forza
+- Updated vendor security patch level
+- Updated media codecs
+- Tint issues fixed while using fb and insta
+- Unlimited Google photos in original quality available
+
+
+
 ##1.2 Miatoll
 
 -December security patch
