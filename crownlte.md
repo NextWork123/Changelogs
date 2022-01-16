@@ -1,11 +1,7 @@
-## 1.2 crownlte
+## 1.3 crownlte
 
-- ArrowOS 12 Kernel.
-- Fixed GMaps bug.
-- Enabled all AOSP Audio features.
-- Disabled compressed APEX for better performance.
-- Cleaned-up trees.
-- Enable HDR and Wide Color Display.
-- Built-in GCAM GO.
-- Pixel-ify the Bixby button.
-- Netflix auto L3 by default.
++ Prebuilt GrapheneOS Camera.
++ Bring AOSP Night Light back (Not LiveDisplay).
++ Upstreamed kernel to 4.9.284
++ Fixed Bluetooth calls not working on 1.2
++ Minor improvements.
