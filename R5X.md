@@ -10,3 +10,12 @@
 - Selinux status is permissive
 - Gapps included
 - CTS passes
+
+# 1.3 R5X
+
+- Inlined Revived.261 kernel
+- Fix Slow Charge Issues
+- Added Realme Dirac in Sound Settings
+- Added support for display colour modes
+- Random Low Sound issues fixed
+- Minor tweaks to make for a smoother experience
