@@ -1,4 +1,4 @@
-## 1.2 Gaugin 
+## 1.2 Gauguin 
 
 - Initial official OSS Build.
 - Reworked the statusbar dimensions.
@@ -18,9 +18,18 @@
 - Enabled adaptive charging.
 - Limited Netflix to 60Hz.
 
+## 1.3 Gauguin 
+- Forced triple frame buffer
+- Fixed mic issues
+- Fixed Ok Gooogle
+- Nuked NFC for indian variant
+- Relaxed refresh rate switching
+- Removed Renderscript & and move renderengine to threaded skia
+- Fixed notification LED light
+
 Notes:
 
-- I heard that some users facing the UI going black after notification popping, well its from Google's side. So please dont ask fix about that.
+- I heard that some users facing the UI going black after notification popping, well its from Google's side. So please dont ask fix about that.(Fixed in v1.3)
 - CLEAN FLASH should be done even if you are from previous version.
 - Its OSS build so MUST CLEAN FLASH if from MIUI based vendor.
 - Flash latest stock Android 11 firmwares, then flash the ROM.
