@@ -1,5 +1,11 @@
-## 1.2 Laurel Sprout
+## 1.3 Laurel Sprout
 
-- Redfin Dec FP
-- Built-in GCam Go
-- Updated to Lineage Kernel 4.14.255
+- Switch to raven january FP
+- Fixed fod brightness bug
+
+Notes:
+- Selinux status is permissive
+- Encryption disabled
+- Safetynet passes by default
+
+
