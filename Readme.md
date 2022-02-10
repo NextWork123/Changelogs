@@ -2,6 +2,49 @@
 
 # Project Elixir All Version Update Changelogs
 
+### v1.4 (10.02.2022)
+* Merged latest February Security patch Release 29
+* CTS Passes by default and banking apps are working fine
+* Switch back to stock QS style like pixel 
+* Essence: Add HeadsUp, timeout, blacklist & snooze function  
+* Essence: Allow forcing small keyguard clock 
+* Essence: Less boring heads up option 
+* Essence: Add volume panel on left toggle 
+* Essence: Screen off animations 
+* Settings: Add back theming into display settings 
+* Bring back Udfps icons and Animations   
+* Settings: UI minnor Improvement and adjustments
+* Essence: Team: Update Teams and links
+* Settings: align user avatar with homepage title
+* Settings: Make ROM banner clickable 
+* Settings: Implement button settings 
+* vendor: Add more drawable XMLs for themed icons
+* vendor: Build TouchGestures 
+* kernel: Implement build time LTO choice 
+* Revert "Revert "kernel: fix KERNEL_TOOLCHAIN_PATH_gcc and usage""
+* Changed protocol from IPV6 to IP for Telus
+* overlay: core: Disable OtaSuggestionSummaryProvider from GMS
+* overlay: core: Use accent color for progress bar background 
+* PixelPropsUtils: Avoid spoofing props for gcam and mods
+* Skip screen on animation when wake and unlock via biometrics
+* SystemUI: Update icon for Heads up tile. 
+* Redesign Action Chip
+* Fix deadlock issue.
+* fw/b: Button backlight brightness 
+* SystemUI: Allow using tuner API for custom settings
+* fwb: Re-introduce keyboard backlight brightness control
+* base: Add Touch HIDL support
+* SystemUI: Implement burn-in protection for status/navbar
+* overlays: oos: Add statusbar bluetooth icons
+* overlays: Add an OxygenOS icon pack
+* SystemUIGoogle: Import Reverse Charging and Battery Saver tiles
+* SystemUIGoogle: Import proto deps for columbus CHRE impl
+* PixelPropUtils: remove spoofing for currently supported Pixels
+* SystemUI: Introduce ColumbusCompatibilityHelper
+* Much faster overall system response and animations processing
+* Hell lot of changes and optimization 
+* Improved performance and stability
+
 ### v1.3 (15.01.2022)
 * Latest January Patch r27 Merged
 * CTS Passes by default and banking apps are working fine
