@@ -1,10 +1,11 @@
-## 1.3 Laurel Sprout
+## 1.4 Laurel Sprout
 
-- Switch to raven january FP
-- Fixed fod brightness bug
+- Switched to Selinux Enforcing.
+- Fixed bt calling issue.
+- Switch to raven February FP.
+
 
 Notes:
-- Selinux status is permissive
 - Encryption disabled
 - Safetynet passes by default
 
