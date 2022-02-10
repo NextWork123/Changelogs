@@ -1,3 +1,12 @@
+## 1.4 Miatoll
+- February security patch
+- Enforcing build
+- Safetynet passes by default
+- Nuked Xiaomi Parts
+- slightly increased the minimum brightness level
+
+
+
 ## 1.3 Miatoll
 
 - January security patch
