@@ -1,8 +1,18 @@
+## 1.4 Whyred
+
+• Upstreamed Nexus Kernel To Latest Linux 4.4.302-EOL
+
+• Added Dirac frontend support
+
+• Improves system stability and performance
+
+
 ## 1.3 Whyred
 
 • Fixed live display stuff (Night Light, Extra Dim, Invert color)
 
 • Fixed screen freeze after reboot or first boot
+
 • Fixed hotspot with security (wpa2-personal)
 
 • Fixed offline charging animation
@@ -13,7 +23,7 @@
 
 • Updated soundtrigger blobs from lemon
 
-• Fixed Hotword Enrollment and Enabled Google assistant wakeup by "OkGoogle/Hey      Google"
+• Fixed Hotword Enrollment and Enabled Google assistant wakeup by "OkGoogle/HeyGoogle"
 
 • Switched to Serum X2.6 Kernel
 
