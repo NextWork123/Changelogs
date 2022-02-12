@@ -1,7 +1,8 @@
-## 1.3 crownlte
+## 1.4 crownlte
 
-+ Prebuilt GrapheneOS Camera.
-+ Bring AOSP Night Light back (Not LiveDisplay).
-+ Upstreamed kernel to 4.9.284
-+ Fixed Bluetooth calls not working on 1.2
-+ Minor improvements.
++ Kernel: Upstreamed to 4.9.299.
++ Kernel: Included R32P1 GPU driver for better experience.
++ Switched to OSS trees. (Better Experience, Performance, Battery Backup)
++ Adaptive Dolby Atmos (Can't be turned on/off atm, but it always on)
++ Swipe FP for notifications added.
++ Switch back to Prebuilt Camera GO.
