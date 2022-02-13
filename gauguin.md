@@ -27,6 +27,25 @@
 - Removed Renderscript & and move renderengine to threaded skia
 - Fixed notification LED light
 
+## 1.4 Gauguin 
+- Disabled blur on app launch
+- Enabled pre-rendering feature
+- Disabled RX wakelock features
+- Added smart decision for choosing between 2Ghz or 5Ghz
+- Enabled ZRAM
+- Allocated ZRAM in such a way that it is half the size of physical memory
+- Changed to Vulkan UI renderer
+- Enabled ZRAM Writeback 
+- Added new Gcam Go
+- Updated vibration pattern
+- Updated transcoding operating rate
+- Adjusted screenshot chip dimension
+- Removed 'Manage Mobile Plan'
+- Disabled ViLTE
+- Enabled haptic text cursor
+- Used device's default dimensions
+- Reduced LED max brightness
+
 Notes:
 
 - I heard that some users facing the UI going black after notification popping, well its from Google's side. So please dont ask fix about that.(Fixed in v1.3)
