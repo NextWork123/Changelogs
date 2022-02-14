@@ -1,4 +1,4 @@
-## 1.4 OnePlus 8T/9R
+## 1.4 OnePlus 8T
 
 - Initial Official Build
 - Inbuilt OnePlus OOSCam, Gallery, Dolby and DeviceSettings
