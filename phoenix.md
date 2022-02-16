@@ -28,3 +28,14 @@
 - phoenix: rootdir: set zram size to 50% of total ram
 - phoenix: Configure zram from separate fstab
 - phoenix: adjust zram write back policy
+
+## 1.4 Phoenix
+- Switch to libperfmgr ( smoother + better scrolling )
+- fingerprint: Uprev to 2.3 HAL
+- rootdir cleanup ( improved battery backup )
+- wifi: Smarter decisions on whether to use a 2 or 5Ghz AP
+- Fixed battery saver ( enabling battery saver now turns off kernel side boosts )
+- drop atrace hal
+- Fixed USB tethering and Otg related issues
+- props: Disable QTI perf lock usage in camera HAL
+- Fixed Audio cracking issues ( while using Viper or Dolby )
