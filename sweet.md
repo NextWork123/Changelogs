@@ -1,3 +1,11 @@
+## 1.4 Sweet
+
+- initial build by me (zaidkhan0997)
+- ventom kernel prebuild
+- enforcing and user build 
+- deep sleep issue fixed 
+- oss vendor based build
+
 ## 1.2 Sweet
 
 - Switch to CamerGo Gretness Special
