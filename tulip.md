@@ -17,3 +17,14 @@
 - Updated Charging strings like miui
 - Fixed headphone blackscreen
 - Some minor improvements
+
+## 1.4 Tulip
+
+- Security Patch : 05th Fed 2022
+- Fixed Color flickers common bug.
+- Fixed UI lags & App opening animation lag.
+- Play Store Certification.
+- Safetynet passed without root.
+- No Recovery stuck issue for SDcard users.
+- Bluetooth Devices working fine.
+- Some minor improvements.
